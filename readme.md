@@ -1,45 +1,45 @@
-# File System Organizer
+## What is File System Organizer ?🤔
 
-- Global command line application
+#### File System Organizer helps you to organize your files into different categories (media, archives, documents, app and other).
+ 
+ ![image](https://media2.giphy.com/media/12W5Sg2koWYnwA/200.webp?cid=ecf05e47jclha5ubo89g7nfci1sqx4opnvqqj3fuzk4vwdwv&rid=200.webp&ct=g)
+ 
+ ## Technology used
+ 
+<h3 align="left">Tech Stack :</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-- Organizes all your files inside a folder into different sections according to extensions automatically.
+## Run Locally 💻
 
-  ![image](https://media2.giphy.com/media/12W5Sg2koWYnwA/200.webp?cid=ecf05e47jclha5ubo89g7nfci1sqx4opnvqqj3fuzk4vwdwv&rid=200.webp&ct=g)
+```
+> Clone the repo
+    >> git clone https://github.com/jatin51997/FileSystemOrganizer.git
+> Change the folder location to your source code Folder
+    >> cd FileSystemOrganizer
+> Install the dependencies
+    >> npm install
+> For setup 
+    >> npm init -y
+    >> npm link
+> Now, File System Organizer can run on your Local Machine.
+```
 
-## Functionality
+## Use this Command 🤖
+List of all Commands : 
 
----
-
-- Organize files of variant types like media files, archives, audio files, pdf documents etc.
-
-- Folders will be created automatically at that path.
-
-- You can see hierarichal tree structure of any path.
-
-- Help command demonstrates how to use this.
+- To Oraganize file in you folder go to the directory in you local machine open terminal and run this </br>command **`ogf organize`**
+- To view you folder and sub folder details go to the directory in you local machine open terminal and run this </br> command **`ogf tree`**
+- For help run this command in your terminal **`ogf help`**
 
 
-## Installation / How to use !?
+---------
 
----
+```javascript
 
-- Download Node.JS from [click here](/https://nodejs.org/en/download/).
+if (youEnjoyed) {
+    starThisRepository();
+}
 
-- Fork / Download package from this repository.
+```
 
-- Open command prompt/powershell/terminal at place you have downloaded this package.
-
-- Run command **npm link** .
-
-- Use **ogf** command
-  - ogf help
-  - ogf organize [path]
-  - ogf tree
-
-## Technology used
-
----
-
-\# Node.Js
-
-\# JavaScript
+-----------
