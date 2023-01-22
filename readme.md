@@ -2,7 +2,7 @@
 
 - Global command line application
 
-- Organizes all your files from from a folder into different section automatically.
+- Organizes all your files inside a folder into different sections according to extensions automatically.
 
   ![image](https://media2.giphy.com/media/12W5Sg2koWYnwA/200.webp?cid=ecf05e47jclha5ubo89g7nfci1sqx4opnvqqj3fuzk4vwdwv&rid=200.webp&ct=g)
 
@@ -14,11 +14,9 @@
 
 - Folders will be created automatically at that path.
 
-- You can see tree structure.
+- You can see hierarichal tree structure of any path.
 
-- Help command to demonstrate how to use it.
-
-![image](https://drive.google.com/file/d/17xfSgFun8GIAXzSMAyy1ASLYdgkL9QMt/view?usp=sharing)
+- Help command demonstrates how to use this.
 
 
 ## Installation / How to use !?
